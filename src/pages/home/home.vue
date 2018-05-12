@@ -1,5 +1,8 @@
 <template>
-	<h1>home</h1>
+	<div>
+	<h1>hello wangbo</h1>
+	
+	</div>
 </template>
 
 <script>
